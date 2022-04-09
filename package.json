@@ -20,7 +20,7 @@
     "clevertap-react-native": "0.3.2",
     "crypto-js": "3.1.9-1",
     "lodash": "4.17.11",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "react": "16.8.6",
     "react-native": "0.59.9",
     "react-native-actionsheet": "2.4.2",
